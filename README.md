@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=b-steem&label=Profile%20views&color=0e75b6&style=flat" alt="bennet profile views" /> 
 </p>
 
-- 🌱 I’m currently learning **AI/ML** at the Univerisity of Alberta
+- 🧑🏻‍🎓 I’m currently learning **AI/ML** at the Univerisity of Alberta
   
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
